@@ -1,0 +1,7 @@
+C:\Users\mukht\source\repos\Tree_Sort\Tree_Sort\obj\Debug\Tree_Sort.csprojAssemblyReference.cache
+C:\Users\mukht\source\repos\Tree_Sort\Tree_Sort\obj\Debug\Tree_Sort.csproj.CoreCompileInputs.cache
+C:\Users\mukht\source\repos\Tree_Sort\Tree_Sort\bin\Debug\Tree_Sort.exe.config
+C:\Users\mukht\source\repos\Tree_Sort\Tree_Sort\bin\Debug\Tree_Sort.exe
+C:\Users\mukht\source\repos\Tree_Sort\Tree_Sort\bin\Debug\Tree_Sort.pdb
+C:\Users\mukht\source\repos\Tree_Sort\Tree_Sort\obj\Debug\Tree_Sort.exe
+C:\Users\mukht\source\repos\Tree_Sort\Tree_Sort\obj\Debug\Tree_Sort.pdb
